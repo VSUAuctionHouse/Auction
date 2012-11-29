@@ -1,0 +1,8 @@
+<Items>
+    <Item>
+        <Name>test</Name>
+        <Description>test</Description>
+        <starting_bid>15</starting_bid>
+        <reserve>0</reserve>
+    </Item>
+</Items>
